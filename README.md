@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--wknd--hlxsites.hlx.page/
-- Live: https://main--wknd--hlxsites.hlx.live/
+- Preview: https://main--wknd--hsaginor.hlx.page/
+- Live: https://main--wknd--hsaginor.hlx.live/
 
 ## Installation
 
